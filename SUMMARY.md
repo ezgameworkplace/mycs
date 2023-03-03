@@ -2,6 +2,7 @@
 
 * [mycs](README.md)
 
-## 练习题
+## CS61B
 
-* [CS61B](lian-xi-ti/cs61b.md)
+* [main](cs61b/main.md)
+* [Discussion](cs61b/discussion.md)
