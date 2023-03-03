@@ -10,4 +10,5 @@
 python版本:
 
 
-<a href="lab02/">lab02_in_python</a>
+
+[lab02_in_python](https://github.com/ezgameworkplace/mycs/tree/main/cs61b/lab02)
